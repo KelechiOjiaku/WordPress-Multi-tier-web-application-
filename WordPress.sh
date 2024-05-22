@@ -4,7 +4,7 @@ DB_NAME="wordpress"
 DB_USERNAME="wpadmin"
 DB_PASSWORD=""
 DB_HOST="wordpress-workshop-instance-1.cpc42aacakrh.us-east-1.rds.amazonaws.com"
-EFS_FS_ID="fs-03945672d1ad30afd"
+EFS_FS_ID="fs-xxxxxxxxxxxxxxxxx"
 
 dnf update -y
 
